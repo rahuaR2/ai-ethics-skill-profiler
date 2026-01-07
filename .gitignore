@@ -1,0 +1,66 @@
+# =========================
+# Secrets & Credentials
+# =========================
+.env
+.env.*
+*.key
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =========================
+# Virtual Environments
+# =========================
+.venv/
+venv/
+env/
+ENV/
+*.conda
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/
+
+# =========================
+# Data / Models / Vectorstores
+# =========================
+data/
+!data/README.md
+!data/example/
+
+vectorstore/
+vectorstores/
+faiss/
+*.faiss
+*.index
+
+# =========================
+# Exports / Results
+# =========================
+*.csv
+*.xlsx
+*.json
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Logs
+# =========================
+*.log

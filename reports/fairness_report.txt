@@ -1,0 +1,8 @@
+=== AI Ethics Skill-Profiler ===
+
+Gruppen-Genauigkeiten:
+  - A: 1.00
+  - B: 0.50
+
+Bias Score: 0.50
+⚠️  Hinweis: Das Modell zeigt deutliche Unterschiede zwischen Gruppen.
